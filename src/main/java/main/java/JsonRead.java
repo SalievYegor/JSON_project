@@ -12,6 +12,9 @@ import java.util.List;
 public class JsonRead {
 
     private String fileName;
+    public JsonRead(String fileName){
+        this.fileName = fileName;
+    }
 
     public String jsonRead() {
 

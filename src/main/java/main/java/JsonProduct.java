@@ -15,9 +15,6 @@ public class JsonProduct {
     private List<Product> productList = new LinkedList<Product>();
     private ObjectMapper mapper = new ObjectMapper();
 
-    public List<Product> getProductList() {
-        return productList;
-    }
 
     public List<Product> product(){
         JsonRead jr = new JsonRead("goods");
@@ -26,6 +23,7 @@ public class JsonProduct {
         try{
             Product[] products = mapper.readValue(jr.jsonRead(), Product[].class);
             productList = Arrays.asList(products);
+
         } catch (IOException e) {
             e.printStackTrace();
         }
