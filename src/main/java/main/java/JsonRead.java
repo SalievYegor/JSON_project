@@ -13,10 +13,6 @@ public class JsonRead {
 
     private String fileName;
 
-    public JsonRead(String fileName) {
-        this.fileName = fileName;
-    }
-
     public String jsonRead() {
 
         Path filePath = Paths.get("src/main/java/resources/" + fileName + ".json");

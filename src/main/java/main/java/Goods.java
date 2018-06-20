@@ -5,7 +5,7 @@ public class Goods {
     public void productPrint() {
         JsonProduct jp = new JsonProduct();
 
-        for (Product prod : jp.getProductList()) {
+        for (Product prod : jp.product()) {
             System.out.println("Name: " + prod.getName());
             System.out.println("price: " + prod.getPrice());
             ShelfLife sl = prod.getShelf();
