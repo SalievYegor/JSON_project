@@ -1,0 +1,162 @@
+[{
+    "name": "Milk",
+    "price": "21.30",
+    "shelf": {
+      "manufacture":"21-03-2018",
+      "expire":"23-07-2018"},
+    "weight":"0.9",
+    "delivery":"28-03-2018"
+  },{
+  "name": "Bread",
+  "price": "9.10",
+  "shelf": {
+    "manufacture":"15-06-2018",
+    "expire":"17-06-2018"},
+  "weight":"0.4",
+  "delivery":"15-03-2018"
+
+},  {
+  "name": "Cheese",
+  "price": "34.10",
+  "shelf": {
+    "manufacture":"21-03-2018",
+    "expire":"23-07-2018"},
+  "weight":"0.3",
+  "delivery":"28-03-2018"
+},{
+  "name": "Chocolate",
+  "price": "25.00",
+  "shelf": {
+    "manufacture":"30-04-2018",
+    "expire":"30-10-2018"},
+  "weight":"0.1",
+  "delivery":"14-05-2018"
+
+},  {
+  "name": "Ice cream",
+  "price": "8.80",
+  "shelf": {
+    "manufacture":"1-06-2018",
+    "expire":"1-06-2019"},
+  "weight":"0.08",
+  "delivery":"10-06-2018"
+},{
+  "name": "Fish",
+  "price": "50.50",
+  "shelf": {
+    "manufacture":"14-06-2018",
+    "expire":"20-06-2018"},
+  "weight":"0.5",
+  "delivery":"14-06-2018"
+
+},  {
+  "name": "Pork",
+  "price": "103.60",
+  "shelf": {
+    "manufacture":"14-06-2018",
+    "expire":"20-06-2018"},
+  "weight":"1.0",
+  "delivery":"14-06-2018"
+},{
+  "name": "Chips",
+  "price": "21.50",
+  "shelf": {
+    "manufacture":"21-04-2018",
+    "expire":"21-10-2018"},
+  "weight":"0.13",
+  "delivery":"17-05-2018"
+
+},  {
+  "name": "Yogurt",
+  "price": "33.30",
+  "shelf": {
+    "manufacture":"14-06-2018",
+    "expire":"18-06-2018"},
+  "weight":"0.9",
+  "delivery":"14-06-2018"
+},{
+  "name": "Shavuxa",
+  "price": "40",
+  "shelf": {
+    "manufacture":"15-06-2018",
+    "expire":"16-06-2018"},
+  "weight":"0.3",
+  "delivery":"15-06-2018"
+
+},  {
+  "name": "Tea",
+  "price": "34.40",
+  "shelf": {
+    "manufacture":"03-05-2018",
+    "expire":"03-11-2018"},
+  "weight":"0.05",
+  "delivery":"09-05-2018"
+},{
+  "name": "Coca cola",
+  "price": "20.90",
+  "shelf": {
+    "manufacture":"12-04-2018",
+    "expire":"11-04-2019"},
+  "weight":"2.0",
+  "delivery":"28-04-2018"
+
+},  {
+  "name": "Rice",
+  "price": "28.40",
+  "shelf": {
+    "manufacture":"28-05-2018",
+    "expire":"27-12-2018"},
+  "weight":"0.9",
+  "delivery":"09-06-2018"
+},{
+  "name": "Vodka",
+  "price": "99.99",
+  "shelf": {
+    "manufacture":"02-02-2018",
+    "expire":"01-02-2019"},
+  "weight":"0.5",
+  "delivery":"11-03-2018"
+
+},  {
+  "name": "Wine",
+  "price": "70.0",
+  "shelf": {
+    "manufacture":"12-12-2017",
+    "expire":"12-07-2019"},
+  "weight":"0.7",
+  "delivery":"05-03-2018"
+},{
+  "name": "Frozen vegetables",
+  "price": "19.90",
+  "shelf": {
+    "manufacture":"02-04-2018",
+    "expire":"02-07-2018"},
+  "weight":"0.4",
+  "delivery":"16-04-2018"
+
+},  {
+  "name": "Butter",
+  "price": "30.80",
+  "shelf": {
+    "manufacture":"21-05-2018",
+    "expire":"20-11-2018"},
+  "weight":"0.2",
+  "delivery":"11-06-2018"
+},{
+  "name": "Ham",
+  "price": "120.40",
+  "shelf": {
+    "manufacture":"14-06-2018",
+    "expire":"20-06-2018"},
+  "weight":"1.0",
+  "delivery":"14-06-2018"
+
+},  {
+  "name": "Sausages",
+  "price": "110.0",
+  "shelf": {
+    "manufacture":"12-06-2018",
+    "expire":"26-06-2018"},
+  "weight":"1.0",
+  "delivery":"12-06-2018"
+}]
